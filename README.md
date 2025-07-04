@@ -1,6 +1,6 @@
 <h1>Deployment Link : https://thamarai-resollect-taskapp.netlify.app/ </h1>
 <h3>Task Brief</h3>
-Develop a responsive task management application using React that empowers users to efficiently create, organize, and track their tasks. The application should feature user authentication via Firebase, allowing users to sign in with Google. Users should be able to create, edit, and delete tasks, categorize them (e.g., work, personal), and set due dates. Additionally, implement drag-and-drop functionality for task organization, sorting options based on due dates, and a board/list view to enhance user experience.
+Develop a responsive task management application using React that empowers users to efficiently create, organize, and track their tasks. The application should feature user authentication via Firebase, allowing users to sign in with Google. Users should be able to create, edit, and delete tasks, categorize them (e.g., work, personal), and set due dates.
 
 The application should prioritize an intuitive user interface, ensuring that users can easily navigate through their tasks and access essential features.
 
